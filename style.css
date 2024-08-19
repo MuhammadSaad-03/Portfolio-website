@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+    color:white;
+    font-family: 'poppins',sans-serif;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85px;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+  
+}
+nav ul li  {
+    list-style: none;
+    margin: 0 23px;
+    
+}
+.left{
+    font-size: 1.5rem;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+    align-items: center;
+}
+.leftsection{
+    width: 30%;
+}
+.rightsection{
+    font-size: 2rem;
+    margin-top: 3%;
+    
+    
+
+
+}
+.leftsection img {
+    width: 100%;
+    margin-top: 30%;
+    border-radius: 10%;
+   
+}
+.name{
+  font-weight: 400;
+  
+  
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:white;
+}
+nav ul li a:hover{
+    color:purple;
+    font-size: 1.03rem;
+   
+
+}
+.secondsection{
+    max-width: 80vw;
+    margin: auto;
+}
+.secondsection h1{
+   
+    margin-top: 20%;
+    font-size: 2rem;
+    margin-bottom: 25px;
+    font-weight: 200;
+}
+.secondsection .paragraph{
+    display:flex;
+    justify-content: center;
+    
+    font-size: 1.2rem;
+
+}
+
+.thirdsection{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 500px;
+
+}
+
+.thirdsection .leftsection{
+   
+    
+    margin-top: 100px;
+}
+.trightsection{
+    margin-top: 100px;
+}
+.photos{
+    display: flex;
+    order: 2;
+    justify-content: space-around;
+}
+.photos img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+}
+.sfour h1{
+    margin-top: 100px;
+    
+    font-size: 2rem;
+    margin-left: 150px;
+}
+.sfour p{
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+}
+footer{
+    margin-top: 80px;
+    background-color: rgb(0, 0, 30);
+    height:120px;
+
+}
+.footer-first{
+    margin-left: 40px;
+    
+
+}
+.footer-first li{
+    color: white;
+    text-decoration: none;
+}
+.resumebtn{
+    background-color: white;
+    color: black;
+    border-radius: 12%;
+    padding: 7px 7px 7px 7px;
+    margin-top: 20px;
+
+   
+   
+}
+.resumebtn:hover{
+    color: red;
+}
+.contactbtn{
+    display: flex;
+    justify-content: start;
+    margin-top: 20px;
+   
+}
+.linkedinbtn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
