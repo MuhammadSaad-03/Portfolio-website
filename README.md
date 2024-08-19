@@ -1,2 +1,2 @@
 # Portfolio-website
-Simple portfolio website.
+The Simple Portfolio website is a straightforward, user-friendly platform to showcase your work and achievements. Designed with minimalism in mind, it features a clean layout and easy navigation to highlight your projects and skills effectively. Perfect for professionals seeking a no-frills approach to display their portfolio, it ensures your content stands out without unnecessary distractions. Ideal for those who value clarity and ease of use in presenting their personal or professional work.
